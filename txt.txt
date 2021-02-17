@@ -2,3 +2,6 @@
 "Hello Amit" //Sheroziy
 "why are we using quotes?"
 42
+"Because we want"
+"Why yes"
+
