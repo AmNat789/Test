@@ -1,0 +1,10 @@
+{
+    "recipe1" : {
+        "food": "eba",
+        "content": ["garri", "cassava"]
+    },
+    "recipe2" : {
+        "food": "pizza",
+        "content": ["flower", "paste"]
+    }
+}
