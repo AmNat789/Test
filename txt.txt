@@ -1,4 +1,9 @@
 "Test"Strawberry-Jam
 "Hello Amit" //Sheroziy
 "why are we using quotes?"
+<<<<<<< HEAD
 "Because we want"
+=======
+Why Not?
+>>>>>>> 9d67ffb88542b614f42262e825527a5d1dc4b3a9
+"Why yes"
