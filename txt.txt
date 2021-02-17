@@ -1,11 +1,8 @@
 "Test"Strawberry-Jam
 "Hello Amit" //Sheroziy
 "why are we using quotes?"
-<<<<<<< HEAD
-<<<<<<< HEAD
 Why Not?
 Have you tried eba and egussi // ade
-<<<<<<< HEAD
 "Because we want"
 Why Not?
 "Why yes"
